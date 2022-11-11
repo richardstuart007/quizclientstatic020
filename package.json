@@ -24,8 +24,8 @@
     "@types/react": "^17.0.50"
   },
   "scripts": {
-    "start": "set PORT=28004 && react-scripts start",
-    "startlocal": "set PORT=28004 && react-scripts start",
+    "start": "set PORT=20004 && react-scripts start",
+    "startlocal": "set PORT=20004 && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
